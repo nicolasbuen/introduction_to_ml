@@ -1,4 +1,4 @@
-### Introduction to Machine Learning - Matt Harrison
+### Introduction to Machine Learning - Andreas C. Müller & Sarah Guido
 
 Essa repo foi criada pra manter todos os estudos que vou fazer para acompanhar o livro **Introduction to Machine Learning - Andreas C. Müller & Sarah Guido**. 
 
