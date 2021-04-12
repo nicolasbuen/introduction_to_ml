@@ -10,6 +10,7 @@ Essa repo foi criada pra manter todos os estudos que vou fazer para acompanhar o
 
 * O [terceiro capítulo](https://github.com/nicolasbuen/introduction_to_ml/blob/master/Introduction%20to%20Machine%20Learning%20-%20Cap.%203%20-%20Unsupervised%20Learning%20and%20Preprocessing.ipynb) explica alguns dos principais **algoritmos de aprendizado não supervisionado**, focando, em primeiro momento, naqueles para **pré-processamento** (como rescalonanadores) e para **redução de dimensionalidade** (como o PCA, o NMF e o t-SNE) e, na segunda parte do capítulo, nos algoritmos de clusterização. Para o estudo, foram utilizados datasets sintéticos bidimensionais (permitindo visualização) e um dataset do *scikit-learn* com rostos de famosos dos anos 2000. Além da aplicabilidade dos algoritmos, também foram discutidas as dificuldades de avaliação em  modelos não supervisionados de clusterização.
 
+* O [quarto capítulo](https://github.com/nicolasbuen/introduction_to_ml/blob/master/Introduction%20to%20Machine%20Learning%20-%20Cap.%204%20-%20Feature%20Engineering.ipynb) apresenta e explica algumas das técnicas mais comuns de **engenharia de features**: ***binning*, transformações logarítimicas e exponenciais, interações polinomiais** e também os clássicos *encodings* possíveis para variáveis categóricas, como **one-hot-encoding** e **label-encoding**. 
 
 ### Bibliografia
 
