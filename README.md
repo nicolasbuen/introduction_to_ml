@@ -14,6 +14,8 @@ Essa repo foi criada pra manter todos os estudos que vou fazer para acompanhar o
 
 * No [capítulo cinco](https://github.com/nicolasbuen/introduction_to_ml/blob/master/Introduction%20to%20Machine%20Learning%20-%20Cap.%205%20-%20Model%20Evaluation%20and%20Improvement.ipynb), foi discutido métodos de **validação cruzada**, hiperparametrização através do **GridSearch** e **métricas de avaliação** - tudo isso para melhorar os modelos discutidos nos capítulos 2 e 3. Entre os pontos tratados, foi dada **muita importância para a forma correta de avaliação de modelos para aplicações reais** (utilizando um set de testes completamente separado) e o **uso de métricas válidas para o problema do negócio**. Na minha opinião, **faltou um pouco de atenção às principais métricas de regressão**, que não foram tratadas no capítulo.
 
+* O [capítulo seis](https://github.com/nicolasbuen/introduction_to_ml/blob/master/Introduction%20to%20Machine%20Learning%20-%20Cap.%206%20-%20Algorithm%20Chains%20and%20Pipelines.ipynb) introduziu a classe do scikit-learn chamada `pipeline`, uma ferramenta que **ajuda a encadear algoritmos de pré-processamento e modelos**. Essa classe é muito útil **para a realização da validação-cruzada sem que haja vazamento de dados**, da mesma forma que aumenta muito o potencial de hiperparametrizadores como o GridSearchCV. No entanto, as autoras não foram tão fundo no assunto e faltou mostrar como é realizada a criação de funções para pipeline utilizando o próprio scikit-learn, além do poderoso encapsulamento de pipelines. 
+
 
 ### Bibliografia
 
