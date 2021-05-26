@@ -16,6 +16,8 @@ Essa repo foi criada pra manter todos os estudos que vou fazer para acompanhar o
 
 * O [capítulo seis](https://github.com/nicolasbuen/introduction_to_ml/blob/master/Introduction%20to%20Machine%20Learning%20-%20Cap.%206%20-%20Algorithm%20Chains%20and%20Pipelines.ipynb) introduziu a classe do scikit-learn chamada `pipeline`, uma ferramenta que **ajuda a encadear algoritmos de pré-processamento e modelos**. Essa classe é muito útil **para a realização da validação-cruzada sem que haja vazamento de dados**, da mesma forma que aumenta muito o potencial de hiperparametrizadores como o GridSearchCV. No entanto, as autoras não foram tão fundo no assunto e faltou mostrar como é realizada a criação de funções para pipeline utilizando o próprio scikit-learn, além do poderoso encapsulamento de pipelines. 
 
+* O [capítulo sete](https://github.com/nicolasbuen/introduction_to_ml/blob/master/Introduction%20to%20Machine%20Learning%20-%20Cap.%207%20-%20Working%20with%20Text%20Data.ipynb) apresentou brevemente o conceito de NLP e alguns passos de pré-processamento simples para tratar dados advindos de textos. Nesse capítulo, utilizamos um dataset contendo 50 mil reviews feitas no site do IMDb sobre filmes, séries e documentários e realizamos análise sentimental simples e modelagem de tópico. 
+
 
 ### Bibliografia
 
